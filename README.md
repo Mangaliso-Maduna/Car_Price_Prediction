@@ -3,9 +3,11 @@
 A machine learning project that predicts the **market price of second-hand cars** using Multiple Linear Regression, built with Python and scikit-learn.
 
 ## 📌 Problem Statement
+
 Used-car pricing is subjective and inconsistent. This project builds a data-driven model that estimates a fair market price based on key vehicle attributes — useful for buyers, sellers, and dealerships.
 
 ## 📦 Dataset
+
 The dataset contains real-world used-car listings with the following features:
 
 | Feature | Description |
@@ -37,6 +39,7 @@ The dataset contains real-world used-car listings with the following features:
 | Features Used | 17 (after encoding) |
 
 ## 🛠️ Tech Stack
+
 `Python` · `scikit-learn` · `pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `statsmodels`
 
 ## 🚀 Getting Started
@@ -49,6 +52,8 @@ jupyter notebook car_price_prediction.ipynb
 ```
 
 ## 📁 Project Structure
+
+.
 Car_Price_Prediction/
 ├── Datasets/
 │   └── 1.04.+Real-life+example.csv
@@ -57,4 +62,5 @@ Car_Price_Prediction/
 └── README.md
 
 ## 👤 Author
+
 **Mangaliso Maduna** — [Portfolio](https://mangaliso-maduna.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/mangalisom/)
